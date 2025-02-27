@@ -1,0 +1,1 @@
+bot: Hello! Ask me anything about medicines, diseases, or drug interactions.
